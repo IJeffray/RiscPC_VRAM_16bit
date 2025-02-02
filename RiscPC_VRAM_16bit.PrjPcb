@@ -146,6 +146,10 @@ Value=Feb 2025
 Name=Project_Title
 Value=RiscPC_VRAM_16bit
 
+[Parameter4]
+Name=DrawnBy
+Value=Ian Jeffray
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
