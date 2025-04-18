@@ -135,20 +135,20 @@ GenerateClassCluster=0
 DocumentUniqueId=ZSMJTSBN
 
 [Parameter1]
-Name=Sch_RevNo
-Value=1.0
+Name=DrawnBy
+Value=Ian Jeffray
 
 [Parameter2]
-Name=Sch_ReleaseDate
-Value=Feb 2025
-
-[Parameter3]
 Name=Project_Title
 Value=RiscPC_VRAM_16bit
 
+[Parameter3]
+Name=Sch_ReleaseDate
+Value=Feb 2025
+
 [Parameter4]
-Name=DrawnBy
-Value=Ian Jeffray
+Name=Sch_RevNo
+Value=1.0
 
 [Configuration1]
 Name=Sources
@@ -815,6 +815,13 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
 
 [Difference Levels]
 Type1=1
@@ -899,6 +906,10 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
 
 [Electrical Rules Check]
 Type1=1
