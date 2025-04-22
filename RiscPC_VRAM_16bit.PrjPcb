@@ -135,20 +135,20 @@ GenerateClassCluster=0
 DocumentUniqueId=ZSMJTSBN
 
 [Parameter1]
-Name=DrawnBy
-Value=Ian Jeffray
+Name=Sch_RevNo
+Value=1.0
 
 [Parameter2]
+Name=Sch_ReleaseDate
+Value=April 2025
+
+[Parameter3]
 Name=Project_Title
 Value=RiscPC_VRAM_16bit
 
-[Parameter3]
-Name=Sch_ReleaseDate
-Value=Feb 2025
-
 [Parameter4]
-Name=Sch_RevNo
-Value=1.0
+Name=DrawnBy
+Value=Ian Jeffray
 
 [Configuration1]
 Name=Sources

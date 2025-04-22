@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=RiscPC_VRAM_16bit.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -58,7 +58,7 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration2_Name1=ColumnNameFormat
 Configuration2_Item1=CaptionAsName
 Configuration2_Name2=General
-Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=True|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=X:\codion\Misc\Codion_BOM_Template.xls|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=2063|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=True|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1480|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=GBP|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration2_Name3=GroupOrder
 Configuration2_Item3=Fitted=True|LibRef=True|Comment=True|Footprint=True
 Configuration2_Name4=OutputConfigurationParameter1
@@ -70,9 +70,9 @@ Configuration2_Item6=FileName=[PCB Document 1]
 Configuration2_Name7=SortOrder
 Configuration2_Item7=Designator=Up
 Configuration2_Name8=VisibleOrder
-Configuration2_Item8=Fitted=100|Comment=112|Part Number=182|Description=227|Designator=273|Quantity=45|Supplier_Name=100|Supplier Part No=100|Manufacturer=148|Manufacturer_Part_Number=151|PartNumber=100
+Configuration2_Item8=Comment=112|Description=227|Designator=273|Quantity=45|Manufacturer_Part_Number=151
 Configuration2_Name9=VisibleOrder_Flat
-Configuration2_Item9=Fitted=100|Comment=112|Part Number=182|Description=227|Designator=273|Quantity=45|Supplier_Name=100|Supplier Part No=100|Manufacturer=148|Manufacturer_Part_Number=151|PartNumber=100
+Configuration2_Item9=Comment=112|Description=227|Designator=273|Quantity=45|Manufacturer_Part_Number=151
 OutputType3=Gerber
 OutputName3=Gerber Files
 OutputCategory3=Fabrication
@@ -84,7 +84,7 @@ OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=4
 OutputDefault3=0
 Configuration3_Name1=OutputConfigurationParameter1
-Configuration3_Item1=AddLayersToGroup.Group_0=0|AddLayersToGroup.Group_1=1|AddLayersToGroup.Group_2=2|AddLayersToGroup.Group_3=3|AddLayersToGroup.Group_4=4|AddLayersToGroup.Group_5=5|AddLayersToGroup.Group_6=7|AddLayersToGroup.Group_7=8|AddLayersToGroup.Set_0=16908289|AddLayersToGroup.Set_1=16908289|AddLayersToGroup.Set_2=16908289|AddLayersToGroup.Set_3=16908289|AddLayersToGroup.Set_4=16908289|AddLayersToGroup.Set_5=16908289|AddLayersToGroup.Set_6=16908289|AddLayersToGroup.Set_7=16908289|AddLayersToGroups.Count=8|AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16908289~1|BoardID=YOJIVXSN|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=6|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1,16777218~1,16777219~1,16973837~1|PlotBoardProfile=False|PlotBoardProfileFileName=ARM2toARM3Adapter.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=G:\AcornDev\RiscPC_VRAM_16bit\RiscPC_VRAM_16bit.PcbDoc
+Configuration3_Item1=AddLayersToGroup.Group_0=0|AddLayersToGroup.Group_1=1|AddLayersToGroup.Group_2=2|AddLayersToGroup.Group_3=3|AddLayersToGroup.Group_4=4|AddLayersToGroup.Group_5=5|AddLayersToGroup.Group_6=7|AddLayersToGroup.Group_7=8|AddLayersToGroup.Set_0=16908289|AddLayersToGroup.Set_1=16908289|AddLayersToGroup.Set_2=16908289|AddLayersToGroup.Set_3=16908289|AddLayersToGroup.Set_4=16908289|AddLayersToGroup.Set_5=16908289|AddLayersToGroup.Set_6=16908289|AddLayersToGroup.Set_7=16908289|AddLayersToGroups.Count=8|AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16908289~1|BoardID=YOJIVXSN|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=6|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1,16777218~1,16777219~1,16973837~1|PlotBoardProfile=False|PlotBoardProfileFileName=ARM2toARM3Adapter.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=G:\AcornDev\RiscPC_VRAM_16bit\RiscPC_VRAM_16bit.PcbDoc
 OutputType4=NC Drill
 OutputName4=NC Drill Files
 OutputCategory4=Fabrication
@@ -96,7 +96,7 @@ OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=3
 OutputDefault4=0
 Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=G:\AcornDev\MyARM3\ARM3\ARM2toARM3Adapter.pcbdoc
+Configuration4_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=G:\AcornDev\RiscPC_VRAM_16bit\RiscPC_VRAM_16bit.PcbDoc
 OutputType5=Design Rules Check
 OutputName5=Design Rules Check
 OutputCategory5=Validation
@@ -112,20 +112,20 @@ Configuration5_Name1=OutputConfigurationParameter1
 Configuration5_Item1=tSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False
 
 [PublishSettings]
-OutputFilePath2=C:\SMS_Ltd\Projects\Calcivis Calibration\Altium\Calcivis_Calibration_Board\Manufacturing Data\Calcivis_Calibration_Board_VariantName_Rev0.1\
+OutputFilePath2=G:\AcornDev\RiscPC_VRAM_16bit\Manufacturing Data\
 ReleaseManaged2=0
 OutputBasePath2=Manufacturing Data\
-OutputPathMedia2==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
+OutputPathMedia2=
 OutputPathMediaValue2==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
 OutputFileName2=Epipole USB camera_PCB_Rev1.0.pdf
 OutputFileNameMulti2==ProjectName+'_'+OutputName+'_'+VariantName+'_Rev'+PCB_RevNo
-UseOutputNameForMulti2=0
+UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
 OpenOutput2=0
-PromptOverwrite2=1
+PromptOverwrite2=0
 PublishMethod2=1
 ZoomLevel2=50
 FitSCHPrintSizeToDoc2=0
@@ -139,24 +139,24 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=G:\AcornDev\RiscPC_VRAM\Manufacturing Data\RiscPC_VRAM_VariantName_RevPCB_RevNo\
+OutputFilePath3=G:\AcornDev\RiscPC_VRAM_16bit\Manufacturing Data\RiscPC_VRAM_16bit_VariantName_RevPCB_RevNo\
 ReleaseManaged3=0
 OutputBasePath3=Manufacturing Data\
-OutputPathMedia3==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
+OutputPathMedia3=
 OutputPathMediaValue3==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
 OutputPathOutputer3=[Output Type]
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
 OutputFileName3=
 OutputFileNameMulti3==ProjectName+'_'+OutputName+'_'+VariantName+'_Rev'+PCB_RevNo
-UseOutputNameForMulti3=0
+UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\SMS_Ltd\Projects\Calcivis Calibration\Altium\Calcivis_Calibration_Board\Manufacturing Data\Calcivis_Calibration_Board_VariantName_Rev0.1\
+RelativeOutputPath2=G:\AcornDev\RiscPC_VRAM_16bit\Manufacturing Data\
 OpenOutputs2=0
-RelativeOutputPath3=G:\AcornDev\RiscPC_VRAM\Manufacturing Data\RiscPC_VRAM_VariantName_RevPCB_RevNo\
+RelativeOutputPath3=G:\AcornDev\RiscPC_VRAM_16bit\Manufacturing Data\RiscPC_VRAM_16bit_VariantName_RevPCB_RevNo\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
