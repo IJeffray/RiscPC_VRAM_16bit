@@ -7,7 +7,7 @@ April 2025
 
 This is my implementation of RiscPC 1MB/2MB VRAM module, using 16bit RAMs - concept from Simtec's design.
 
-This has not built/tested yet.
+This has been built and successfully tested.
 
 
 ## Licence
